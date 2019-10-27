@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'wp-blog-2019' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'e738b0da4d513ca4a7bcdead3b12a7835dab232849908bf1' );
